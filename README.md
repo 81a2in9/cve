@@ -4,7 +4,7 @@ a page for cve
 # NAME OF AFFECTED PRODUCT(S)
 RTBS Project PHP
 # Vendor Homepage
-https://phpgurukul.com/restaurant-table-booking-system-using-php-and-mysql/
+https://phpgurukul.com/zoo-management-system-using-php-and-mysql/
 # AFFECTED AND/OR FIXED VERSION(S)
 ## submitter
 B1a2ing
